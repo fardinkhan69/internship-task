@@ -1,0 +1,17 @@
+.home-container{
+    display:flex;
+
+}
+
+.sidebar{
+    width : 25%; 
+    min-height: 100vh;
+    background-color: #fff;
+    
+}
+
+.main-part {
+    width: 75%;
+    min-height: 100vh;
+    
+}

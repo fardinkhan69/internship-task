@@ -1,0 +1,13 @@
+.sidebar-container{
+    overflow: hidden;
+}
+
+.logo-container{
+    height: 110px;
+    
+    overflow:hidden;
+}
+
+.logo-container img {
+    padding-top: 20px;
+}

@@ -1,0 +1,41 @@
+.navbar-container{
+
+}
+.navbar-container ul {
+    list-style-type: none;
+}
+
+.navbar-container ul li {
+   display: block;
+   width:100%;
+   padding: 10px 0px;
+   color: #757575;
+   cursor: pointer;
+   
+ 
+}
+.navbar-container ul li:hover{
+    color:#fff;
+    background-color: #3F0E40;
+}
+.nav-item{
+    padding: 0px 5%;
+    display:flex;
+    
+    justify-content: flex-start;
+}
+.nav-item:hover{
+   
+}
+.nav-icon {
+    margin-right: 5%;
+}
+
+.dropdown{
+    list-style-type: none;
+    padding-left: 10% !important;
+}
+.dropdown a {
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.219);
+}
